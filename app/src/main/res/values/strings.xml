@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Superheroes</string>
+    <string name="hero1">Iron Man (Tony Stark)</string>
+    <string name="description1">Seorang miliarder jenius yang mengorbankan dirinya untuk menyelamatkan alam semesta.</string>
+    <string name="hero2">Captain America (Steve Rogers)</string>
+    <string name="description2">Seorang prajurit super yang menjadi simbol keberanian dan kepemimpinan.</string>
+    <string name="hero3">Thor</string>
+    <string name="description3">Dewa Petir yang menggunakan Stormbreaker dan Mjölnir.</string>
+    <string name="hero4">Black Widow (Natasha Romanoff)</string>
+    <string name="description4">Seorang mata-mata ulung yang mengorbankan dirinya demi Batu Jiwa.</string>
+    <string name="hero5">Spider-Man (Peter Parker)</string>
+    <string name="description5">Pahlawan muda dengan kemampuan seperti laba-laba, terinspirasi oleh warisan Iron Man.</string>
+    <string name="hero6">Hawkeye (Clint Barton)</string>
+    <string name="description6">Seorang pemanah ulung yang menjadi Ronin setelah kehilangan keluarganya.</string>
+    <string name="hero7">Captain Marvel (Carol Danvers)</string>
+    <string name="description7">Memiliki kekuatan kosmik dan berperan penting dalam pertempuran terakhir.</string>
+</resources>
